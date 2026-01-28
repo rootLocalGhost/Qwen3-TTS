@@ -19,17 +19,17 @@ classifiers = [
 license = { text = "Apache-2.0" }
 authors = [{ name = "Alibaba Qwen Team" }]
 
-dependencies = [
-  "transformers==4.57.3",
-  "accelerate==1.12.0",
-  "gradio",
-  "librosa",
-  "torchaudio",
-  "soundfile",
-  "sox",
-  "onnxruntime",
-  "einops",
-]
+# dependencies = [
+#   "transformers==4.57.3",
+#   "accelerate==1.12.0",
+#   "gradio",
+#   "librosa",
+#   "torchaudio",
+#   "soundfile",
+#   "sox",
+#   "onnxruntime",
+#   "einops",
+# ]
 
 [project.urls]
 Homepage = "https://github.com/Qwen/Qwen3-TTS"
